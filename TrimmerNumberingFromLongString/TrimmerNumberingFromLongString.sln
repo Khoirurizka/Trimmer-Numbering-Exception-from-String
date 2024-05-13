@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrimmerNumberingFromLongString", "TrimmerNumberingFromLongString.csproj", "{F5DBFD06-B563-4A5B-AC5D-AD130B958379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DBFD06-B563-4A5B-AC5D-AD130B958379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DBFD06-B563-4A5B-AC5D-AD130B958379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DBFD06-B563-4A5B-AC5D-AD130B958379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DBFD06-B563-4A5B-AC5D-AD130B958379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3F64F0-D0C0-402C-8672-C48722EB6B44}
+	EndGlobalSection
+EndGlobal
